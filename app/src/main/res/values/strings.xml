@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Phone  Book</string>
+    <string name="str_name">Name</string>
+    <string name="str_surname">Surname</string>
+    <string name="str_save">Save</string>
+    <string name="empty_string" />
+    <string name="str_edit">Edit</string>
+    <string name="str_remove">Remove</string>
+    <string name="str_cannot_be_empty">Can\'t be empty</string>
+</resources>
